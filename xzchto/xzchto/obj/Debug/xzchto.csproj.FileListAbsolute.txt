@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\bin\Debug\xzchto.exe.config
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\bin\Debug\xzchto.exe
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\bin\Debug\xzchto.pdb
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\obj\Debug\xzchto.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\obj\Debug\xzchto.Form1.resources
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\obj\Debug\xzchto.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\obj\Debug\xzchto.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\obj\Debug\xzchto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\obj\Debug\xzchto.exe
+C:\Users\user\Desktop\Новая папка (5)\xzchto\xzchto\obj\Debug\xzchto.pdb
